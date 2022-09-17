@@ -7,9 +7,6 @@
 
 -💬 My specialty Django, DRF, Telegram Bot, Desktop, Python and C++ Coding
 
--📄 My resume: ![my_resume](https://user-images.githubusercontent.com/70073648/190855922-3b1bebb0-1c59-4ec5-b24e-5b842283f3aa.png)
- 
-
 -📫 How to contact me:
 
   * Phone: +998 (33) 297-74-19
