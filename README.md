@@ -2,6 +2,7 @@
 
 
 -🔭 I am currently looking for a job.
+
 -🌱 I am currently studying Data Science
 💬 Ask me Telegram bot and Django, DRF...
 📫 How to contact me:
