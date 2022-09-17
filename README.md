@@ -7,6 +7,8 @@
 
 -💬 My specialty Django, DRF, Telegram Bot, Desktop, Python and C++ Coding
 
+- [My Resume]([https://link-url-here.org](https://taplink.cc/jaloliddinmamatmusayev))
+
 -📫 How to contact me:
 
   * Phone: +998 (33) 297-74-19
