@@ -1,11 +1,14 @@
 ### Hi there 👋
 
 
--🔭 I am currently looking for a job.
+-🔭 I am a Python Developer.
 
 -🌱 I am currently studying Data Science
 
--💬 Ask me Telegram bot and Django, DRF...
+-💬 My specialty Django, DRF, Telegram Bot, Desktop, Python and C++ Coding
+
+-📄 My resume: ![my_resume](https://user-images.githubusercontent.com/70073648/190855922-3b1bebb0-1c59-4ec5-b24e-5b842283f3aa.png)
+ 
 
 -📫 How to contact me:
 
