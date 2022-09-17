@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-🔭 I am currently looking for a job.
-🌱 I am currently studying Data Science
+-🔭 I am currently looking for a job.
+-🌱 I am currently studying Data Science
 💬 Ask me Telegram bot and Django, DRF...
 📫 How to contact me:
       Phone: +998 (33) 297-74-19
