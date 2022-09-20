@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
--🔭 I am a Python Developer.
+-🔭 I am Jaloliddin a Python Developer.
 
 -🌱 I am currently studying Data Science
 
