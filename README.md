@@ -7,7 +7,6 @@
 
 -💬 My specialty Django, DRF, Telegram Bot, Desktop, Python and C++ Coding
 
-
 -📄 [My Resume](https://taplink.cc/jaloliddinmamatmusayev/)
 
 -📫 How to contact me:
