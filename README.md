@@ -20,5 +20,3 @@
 
 
 
-
-![video]([https://user-images.githubusercontent.com/70073648/197364100-c6f654ec-7b67-457e-b5db-1c5753b6bddc.png](https://www.youtube.com/watch?v=H-TlwIy3VNg))
