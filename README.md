@@ -1,3 +1,7 @@
+
+![7yYe](https://user-images.githubusercontent.com/70073648/201647015-919bbf2a-19be-4e33-8d60-45a9e85dc9d4.gif)
+
+
 ###        Hi there 👋
 
 -🔭 I am Jaloliddin a Python Developer.
@@ -17,5 +21,3 @@
 -⚡ Fact: "A scientist who learns what he does not know by asking is a tyrant who does not ask," - Alisher Navoi
 
 
-
-![7yYe](https://user-images.githubusercontent.com/70073648/201647015-919bbf2a-19be-4e33-8d60-45a9e85dc9d4.gif)
