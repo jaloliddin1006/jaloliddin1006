@@ -23,9 +23,8 @@
 
 !![Python-Numpy_05](https://user-images.githubusercontent.com/70073648/201746077-3b7875ce-bc61-4fa9-beb2-2b4bf364e3d5.gif)
 ![59523230-55488280-8f03-11e9-9abe-e8e0f3d9a245](https://user-images.githubusercontent.com/70073648/201746101-6e38907c-6594-43b3-b50c-877c2fc6d160.gif)
-![114284722-45901b80-9a52-11eb-8a0c-e99fc8681436](https://user-images.githubusercontent.com/70073648/201746112-e536f85e-3350-423b-b7e6-070f2427516b.gif)
+![114284722-45901b80-9a52-11eb-8a0c-e99fc8681436]()
 
-![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/70073648/201746125-4016ea7f-4091-48b5-b0a5-e82cd746a286.gif)
-
-![Ry6p](https://user-images.githubusercontent.com/70073648/201746159-ddcf81d3-c3d1-4553-816d-2a55eda097eb.gif)
 <img src="https://user-images.githubusercontent.com/70073648/201746159-ddcf81d3-c3d1-4553-816d-2a55eda097eb.gif" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="https://user-images.githubusercontent.com/70073648/201746125-4016ea7f-4091-48b5-b0a5-e82cd746a286.gif" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="https://user-images.githubusercontent.com/70073648/201746112-e536f85e-3350-423b-b7e6-070f2427516b.gif" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
