@@ -1,6 +1,4 @@
 
-
-
 ###        Hi there 👋
 
 -🔭 I am Jaloliddin a Python Developer.
