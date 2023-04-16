@@ -5,7 +5,7 @@
 
 -🌱 I am currently studying Data Science
 
--💬 My specialty Django, DRF, Telegram Bot, Desktop, Python and C++ Coding
+-💬 My specialty Django, DRF, Telegram Bot, Desktop, Python Coding
 
 -📄 [My Resume](https://docs.google.com/document/d/12dFIYrIvAyFt3DepxYNgVvOPlbKaCI_VAE564W19DyA/edit?usp=sharing/)
 
