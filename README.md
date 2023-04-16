@@ -13,7 +13,9 @@
 -📫 How to contact me:
 
   * 📱 Phone: +998 (33) 297-74-19
-  * 📧 Email: jmamatmusayev@gmail.com 
+  * 📧 Email: 
+  
+              jmamatmusayev@gmail.com 
   
               j.mamatmusayev@tuit.uz
 
