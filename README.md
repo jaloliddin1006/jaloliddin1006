@@ -7,6 +7,8 @@
 
 -💬 My specialty Django, DRF, Telegram Bot, Desktop, Python Coding
 
+-💻 [My Leetcode](https://leetcode.com/Jaloliddin1006/) 
+
 -📄 [My Resume](https://docs.google.com/document/d/12dFIYrIvAyFt3DepxYNgVvOPlbKaCI_VAE564W19DyA/edit?usp=sharing/)
 
 
