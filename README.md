@@ -1,5 +1,5 @@
 
-###        Hi there <img src="https://media1.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47k7jut98v4x4lz7saf4kszt5jifpa7qacexammwwj&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40px>
+###        Hi there  <img src="https://giphy.com/embed/w1OBpBd7kJqHrJnJ13" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 -🔭 I am Jaloliddin a Python Developer.
 
