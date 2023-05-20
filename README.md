@@ -1,7 +1,7 @@
 
-###        Hi there  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" >
+###        Hi there  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30" >
 
--🔭 I am Jaloliddin a Python Developer.
+-<img src="https://media.giphy.com/media/E4kjYvAnTjh45ML3TO/giphy.gif" width="30px"> I am Jaloliddin a Python Developer.
 
 -🌱 I am currently studying Data Science
 
