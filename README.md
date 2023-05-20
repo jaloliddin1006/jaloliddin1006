@@ -1,7 +1,7 @@
 
 ###        Hi there  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30" >
 
--<img src="https://media.giphy.com/media/E4kjYvAnTjh45ML3TO/giphy.gif" width="30px"> I am Jaloliddin a Python Developer.
+-🔭  I am Jaloliddin a Python Developer.
 
 -🌱 I am currently studying Data Science
 
@@ -13,8 +13,6 @@
 
 
 -📫 How to contact me:
-
-  * 📱 Phone: +998 (33) 297-74-19
   * 📧 Email: 
   
               jmamatmusayev@gmail.com 
