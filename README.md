@@ -7,7 +7,7 @@
 <ul>
   <li>👋 Hi, I’m Jaloliddin</li>
   <li>❤️ I love Creating websites and Programming in Python.</li>
-  <li>💼 I'm a Freelencer.</li>
+  <li>💼 I'm a student</li>
 </ul>
 
 #### A little more about me
