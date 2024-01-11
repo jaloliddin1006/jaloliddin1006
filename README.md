@@ -43,13 +43,6 @@ if __name__ == '__main__':
 <br><br>
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/jaloliddin1006">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaloliddin1006&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaloliddin1006&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 <a href="https://github.com/jaloliddin1006">
 <p align="left">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaloliddin1006&theme=github_dark">
@@ -57,4 +50,12 @@ if __name__ == '__main__':
 <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaloliddin1006&theme=github_dark&utcOffset=5"><br>
     </p>
 </a> 
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+<a href="https://github.com/jaloliddin1006">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jaloliddin1006&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaloliddin1006&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
