@@ -50,4 +50,11 @@ if __name__ == '__main__':
 </a>
 </p>
 
+<a href="https://github.com/jaloliddin1006">
+<p align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaloliddin1006&theme=github_dark">
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaloliddin1006&theme=github_dark">
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaloliddin1006&theme=github_dark&utcOffset=5"><br>
+    </p>
+</a> 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
