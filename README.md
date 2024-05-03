@@ -7,7 +7,7 @@
 <ul>
   <li>👋 Hi, I’m Jaloliddin</li>
   <li>❤️ I love Creating websites and Programming in Python.</li>
-  <li>💼 I'm a student</li>
+  <li>💼 I'm a student in <a href='https://tuit.uz/'>TUIT</a></li>
 </ul>
 
 #### A little more about me
