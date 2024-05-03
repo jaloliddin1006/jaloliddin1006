@@ -12,7 +12,7 @@
 
 #### A little more about me
 ```python
-class AbhigyanTrips():
+class DefonicTrips():
     
   def __init__(self):
     self.name = "Jaloliddin Mamatmusayev";
@@ -24,7 +24,7 @@ class AbhigyanTrips():
     return self.name
     
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = DefonicTrips()
 ````
 
 <br><br>
