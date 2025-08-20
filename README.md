@@ -26,6 +26,15 @@ class DefonicTrips():
 if __name__ == '__main__':
     me = DefonicTrips()
 ````
+<br><br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omadli&color=blueviolet" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/omadli?tab=followers">
+    <img src="https://img.shields.io/github/followers/omadli?style=social" alt="Followers" />
+  </a>
+</p>
 
 <br><br>
 
