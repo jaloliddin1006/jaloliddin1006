@@ -7,7 +7,7 @@
 <ul>
   <li>👋 Hi, I’m Jaloliddin</li>
   <li>❤️ I love Creating websites and Programming in Python.</li>
-  <li>💼 I'm a student in <a href='https://tuit.uz/'>TUIT</a></li>
+  <li>💼 I'm a Backend Engeener in <a href='https://stat.uz/'>UZSTAT</a></li>
 </ul>
 
 #### A little more about me
@@ -31,7 +31,7 @@ if __name__ == '__main__':
 
 -💻 [My Leetcode](https://leetcode.com/Jaloliddin1006/) 
 
--📄 [My Resume](https://docs.google.com/document/d/12dFIYrIvAyFt3DepxYNgVvOPlbKaCI_VAE564W19DyA/edit?usp=sharing/)
+-📄 [My Resume](https://resume.mamatmusayev.uz/)
 
 -📫 How to contact me:
   * 📧 Email: 
